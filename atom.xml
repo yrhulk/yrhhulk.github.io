@@ -6,7 +6,7 @@
   <link href="http://yrhulk.github.io/atom.xml" rel="self"/>
   
   <link href="http://yrhulk.github.io/"/>
-  <updated>2022-04-10T01:28:54.573Z</updated>
+  <updated>2022-04-10T02:18:00.670Z</updated>
   <id>http://yrhulk.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://yrhulk.github.io/2022/04/10/Hello-World-0/"/>
     <id>http://yrhulk.github.io/2022/04/10/Hello-World-0/</id>
     <published>2022-04-10T01:27:42.000Z</published>
-    <updated>2022-04-10T01:28:54.573Z</updated>
+    <updated>2022-04-10T02:18:00.670Z</updated>
     
-    <content type="html"><![CDATA[<p>It is a new start!</p>]]></content>
+    <content type="html"><![CDATA[<p>It is a new start!<br>But there still some question..</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;It is a new start!&lt;/p&gt;
+    <summary type="html">&lt;p&gt;It is a new start!&lt;br&gt;But there still some question..&lt;/p&gt;
 </summary>
       
     
